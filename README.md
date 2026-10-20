@@ -10,7 +10,7 @@ Super Smash Bros. 64 and **Smash Remix 2.0.1** running natively on the Meta Ques
 
 - **60 FPS** battles.
 - **Smash Remix 2.0.1:** all the Remix fighters, stages and modes, chosen on the start window.
-- **Online VS:** 2 to 4 players, each on their own Quest, with a room code.
+- **Online VS:** 2 to 4 players, each on their own Quest, with a room code. (Cloudflare or similar)
 - **Immersive view:** look around the stage with your head; the camera follows your fighter.
 - **Sharp picture** with anti-aliasing.
 - **Plug and play:** pick your ROM in the start window and play.
