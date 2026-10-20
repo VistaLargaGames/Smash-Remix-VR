@@ -15,6 +15,14 @@ Super Smash Bros. 64 and **Smash Remix 2.0.1** running natively on the Meta Ques
 - **Sharp picture** with anti-aliasing.
 - **Plug and play:** pick your ROM in the start window and play.
 
+## What's new in 0.8.5
+
+- **Smash Remix online:** turn on "Online game: Smash Remix" in the start window, then Host or Join. Everyone in the room plays Remix.
+- **The game pauses** while the Quest menu is open (not in online matches).
+- **Quitting from the Quest menu** closes the game at once, and your save is kept.
+- **Smoother VS intro screens** in 1P mode, with no crackling sound.
+- **Cancel on Host** returns to the start window instead of crashing.
+
 ## Install
 
 1. Download the APK from the [Releases](../../releases) page.
